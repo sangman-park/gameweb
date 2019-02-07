@@ -36,7 +36,7 @@
             getSender().tell("ok",ActorRef.noSender());
         }    
     
-## Webocket with Actor
+## WebSocket with Actor
 
 ![](../../../../../../../../doc/actorwithws.png)
 
